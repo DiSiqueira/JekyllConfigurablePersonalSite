@@ -3,11 +3,11 @@ gems:
   - jekyll-redirect-from
 
 # Custom
-siteTitle: Corgi
-siteDescription: My awesome personal site, i'm a Corgi!
+siteTitle: Diego Martins de Siqueira
+siteDescription: Excellent developer who is passionate about creating things; 5 years of experience managing web applications, web projects and blogs.
 avatar: img/avatar.jpg
 background: img/background.jpg
-description: Hey I'm a Corgi. Thanks for visiting my personal site!
+description: Hey I'm Diego. Thanks for visiting my personal site!
 resumeFile: https://dl.dropboxusercontent.com/u/3848960/corgi.pdf
 
 icons:
@@ -15,19 +15,21 @@ icons:
     link: resume.html
     title: Resume
   - icon: social-github
-    link: http://www.github.com/DDuarte
+    link: http://www.github.com/DiSiqueira
     title: Github
   - icon: social-twitter
-    link: https://twitter.com/OhMyCorgi
+    link: https://twitter.com/DiSiqueira_
     title: Twitter
-  - icon: paw
-    link: http://lmgtfy.com/?q=corgi
+  - icon: social-facebook
+    link: https://fb.com/DiSiqueira
   - icon: social-reddit
-    link: https://www.reddit.com/r/corgi
+    link: https://www.reddit.com/r/diisiqueira
     title: Reddit
 
 projects:
-  - name: Jekyll Configurable Site
-    link: https://github.com/DDuarte/JekyllConfigurablePersonalSite
-  - name: JSON Configurable Site
-    link: https://github.com/christophior/JSONConfigurablePersonalSite
+  - name: DSDownload
+    link: https://github.com/DiSiqueira/DSDownload
+  - name: TumblrDownloader
+    link: https://github.com/DiSiqueira/TumblrDownloader
+  - name: DSImgur
+    link: https://github.com/DiSiqueira/DSImgur
